@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_name">Name</string>
+    <string name="title_activity_playervsplayer">playervsplayer</string>
+    <string name="title_activity_playervscomputer">playervscomputer</string>
+</resources>
